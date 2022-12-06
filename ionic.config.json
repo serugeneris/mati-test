@@ -1,0 +1,8 @@
+{
+  "name": "MatiTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "39363ea0"
+}
